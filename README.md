@@ -1,4 +1,4 @@
-<img src="[https://github.com/rudrabarad/Gifs/assets/83632641/09b8c546-d2cd-4591-8ab2-8dc8822044a6](https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)" width="100%" alt="Welcome GIF" />
+
 
 # 💫 About Me:
 👋 Hey there! I’m an enthusiastic **Full-Stack Web Developer** currently focused on building my personal **portfolio website** to highlight my skills and projects.
@@ -17,6 +17,10 @@
 🎯 I'm passionate about learning through building, open to guidance and mentorship, and ready to contribute to meaningful tech experiences.
 
 Let’s build something **awesome together** — feel free to reach out!
+
+<center>
+<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="50%%" height="40%" alt="Welcome GIF" />
+</center>
 
 ---
 
